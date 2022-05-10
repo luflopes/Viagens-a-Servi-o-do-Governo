@@ -1,9 +1,4 @@
-<div style="display:flex;">
-    <div style="float:left;padding-top:10px;padding-right:15%">
-        <font color='#1F1A54'><H1>Despesas com Viagens a Serviço do Governo</H1></font><br>
-        <font color='#F79E6C'><p><strong>Uma Análise Exploratória</strong></p></font>
-    </div>
-    <div style="float:right;padding-right:2px;padding-top:0px">
-        <img src='https://static.wixstatic.com/media/518920_6620a969bc36403fbcfc0830074d0b21~mv2_d_2766_1390_s_2.png/v1/fill/w_195,h_85,al_c,usm_0.66_1.00_0.01,enc_auto/518920_6620a969bc36403fbcfc0830074d0b21~mv2_d_2766_1390_s_2.png' style="float:right;padding-top:0px;">
-    </div>    
-</div>
+# Despesas com Viagens a Serviço do Governo
+### Uma Análise Exploratória
+
+<img src='https://video.fppy8-1.fna.fbcdn.net/v/t1.18169-9/19894597_570661319989282_4606153159333515041_n.png?_nc_cat=111&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeH4xArczl3OmW1gAqnT694zo2YB4DMgN4CjZgHgMyA3gINcOzo6gh_yuRKfu4x6bbojT2E0QcTy3jzanNhCaZF6&_nc_ohc=l7KBR4ZGce8AX_1LDRy&_nc_ht=video.fppy8-1.fna&oh=00_AT8EopMEoHzPtM3OKFPpJXLWdP8eKupwKaZd0izKTlve4g&oe=629479BE' style='width:1000px; float:left'>
